@@ -5,6 +5,27 @@
   Passionate about building scalable web applications and solving real-world problems
 </p>
 
+### 🧑‍💻 About Me
+
+- 👨‍💻 2+ years of experience as a **Full Stack Java Developer**
+- 🌱 Currently pursuing **Master's in Information Systems** at Central Michigan University (Dual specialization: Data Analytics & SAP)
+- 💡 Love working with **Java**, **Spring Boot**, **React**, and **RESTful APIs**
+- 💬 Ask me about `Java`, `Spring Boot`, `React.js`, `SQL`, or `Microservices`
+- 🌍 From Hyderabad, India | Currently based in the U.S.
+- ⚡ Fun Fact: I'm a passionate cricketer and a tech explorer
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+`Java` `Spring Boot` `React.js` `JavaScript` `HTML` `CSS` `SQL`
+
+**Tools & Platforms:**  
+`Git` `GitHub` `VS Code` `IntelliJ` `Postman` `Maven` `Docker` `Jira`
+
+**Database & Cloud:**  
+`MySQL` `MongoDB` `PostgreSQL` `AWS (Basics)`
+
+
 <!--
 **revanth9581/revanth9581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
