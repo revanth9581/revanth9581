@@ -25,6 +25,13 @@
 **Database & Cloud:**  
 `MySQL` `MongoDB` `PostgreSQL` `AWS (Basics)`
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=revanthreddy&show_icons=true&theme=tokyonight" alt="Revanth's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanthreddy&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
 
 <!--
 **revanth9581/revanth9581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
