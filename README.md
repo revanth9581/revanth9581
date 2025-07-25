@@ -1,5 +1,10 @@
 <h1 align="center">Hi, I'm Revanth Reddy Bheemireddy 👋</h1>
 
+<p align="center">
+  🚀 Full Stack Java Developer | 🎓 MS in Information Systems @ Central Michigan University <br>
+  Passionate about building scalable web applications and solving real-world problems
+</p>
+
 <!--
 **revanth9581/revanth9581** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
