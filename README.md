@@ -28,8 +28,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=revanthreddy&show_icons=true&theme=tokyonight" alt="Revanth's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanthreddy&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=revanth9581&show_icons=true&theme=tokyonight" alt="Revanth's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revanth9581&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
 
