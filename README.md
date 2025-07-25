@@ -8,7 +8,7 @@
 ### 🧑‍💻 About Me
 
 - 👨‍💻 2+ years of experience as a **Full Stack Java Developer**
-- 🌱 Currently pursuing **Master's in Information Systems** at Central Michigan University (Dual specialization: Data Analytics & SAP)
+- 🌱 Currently pursuing **Master's in Information Systems** at Central Michigan University
 - 💡 Love working with **Java**, **Spring Boot**, **React**, and **RESTful APIs**
 - 💬 Ask me about `Java`, `Spring Boot`, `React.js`, `SQL`, or `Microservices`
 - 🌍 From Hyderabad, India | Currently based in the U.S.
